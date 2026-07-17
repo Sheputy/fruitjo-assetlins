@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.drobile.fruitjo",
+      "sha256_cert_fingerprints": [
+        "5B:2C:71:C3:0B:A5:BF:83:20:52:A6:C3:0B:5B:1D:EB:C3:02:BA:56:93:30:B1:2A:44:48:E7:C9:24:F1:B3:C0"
+      ]
+    }
+  }
+]
